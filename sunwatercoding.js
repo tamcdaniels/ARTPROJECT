@@ -1,7 +1,7 @@
 var sunY = 238.5;
 
 function setup() { 
-  var Canvas = createCanvas(500, 500); 
+  var Canvas = createCanvas(windowWidth, 500); 
     Canvas.parent('header') ;
 }
 
